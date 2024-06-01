@@ -2,3 +2,5 @@
 Brazilian E-Commerce data analysis using SQL in Python.
 
 SQLite has been used inside Python notebook for analysis. The analysis focuses on visualisations for easier understanding and storytelling.
+
+Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
